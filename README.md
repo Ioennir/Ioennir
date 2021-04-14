@@ -9,3 +9,4 @@ Here are some facts about me!
 * 💻 I'm in my 4th university year.
 * 🖱️  I love low level, tools, gameplay & game-engine programming.
 * ⌨️ I usually program in C, C++ and C# but I also know JavaScript and scripting languages such as Python or Lua.
+* 📚 Lately I've been touching some Shader programming in GLSL and HLSL.
