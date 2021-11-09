@@ -10,3 +10,4 @@ Here are some facts about me!
 * 🖱️  I love low level, tools, gameplay & game-engine programming.
 * ⌨️ I usually program in C, C++ and C# but I also know JavaScript and scripting languages such as Python or Lua.
 * 📚 I'm really interested in Computer Graphic programming, GLSL and HLSL.
+* 🐉 I love D&D and TTRPGS as well as High-fantasy!
