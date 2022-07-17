@@ -3,7 +3,7 @@
 I'm a Computer Science Engineering + Videogame Dev. and Programming Student.
 
 Here are some facts about me!
-* ⚡ I'm 22.
+* ⚡ I'm 23.
 * 🖖 You can refer to me as Fran or Ezra.
 * 👽 I answer to all pronouns.
 * 💻 I'm in my last university year.
